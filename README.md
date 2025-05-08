@@ -1,2 +1,2 @@
-The sound we collected are categorized into the following folders:github.gyne, github.male, github.queen and github.worker.while the sound of worker can be distinguished as On_gyne_stridulation and distressed.
-These sounds can be cross-referenced with the Excel 'github.elsx'
+The sounds we collected are categorized into the following folders:github.gyne, github.male, github.queen and github.worker.Among these, the worker sounds can be further distinguished as on_gyne_stridulation and distressed sounds. For detailed reference, these sounds can be cross-referenced with the Excel file 'github.xlsx'.
+Additionally, the playback files used in the experiment are stored in the 'github.playback' folder. You can find the experimental setup in the provided picture.
